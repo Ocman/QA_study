@@ -1,0 +1,12 @@
+Title_Title of bug
+
+environment[D[D[D[D[D[D[D[D[D[E[1;5C[1;5C[1;5C[1;5C[1;5C[1;5C[1;5C[1;5C[1;5C[1;5C_where you fingd [D[[Cd this bug[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dhat[D[D[D[D[C[C[C[C[C[C[C[C[C[D[Dplatform find [B[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+Preconditions_ Steps [D wich you follow before go bug scenario
+
+Scenario_ [DSteps to reproduce bug
+
+Excual result_ [D What actually happen
+Expectetd[[Cd result [D_ What should happen in spite of specification
+
+attachment _[[C_ fie [D[D[le which help to reproduce bug
